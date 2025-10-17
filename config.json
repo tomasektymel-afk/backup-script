@@ -1,0 +1,5 @@
+{
+  "source": "C:/backup_source/from",
+  "destination": "C:/backup_source/to",
+  "log_file": "C:/projekt/backup.log"
+}
